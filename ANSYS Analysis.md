@@ -77,5 +77,5 @@ nav_order: 3
 
 ## Additional Info
 
-- For more information on the final capstone project, check out the Executive Summary [here]() or the final Capstone presentation [here]().
+- For more information on the final capstone project, check out the Executive Summary [here](https://github.com/CA-Wu/portfolio/blob/main/extras/Capstone_Executive_Summary_Static_Ver.pdf) or the final Capstone presentation [here](https://github.com/CA-Wu/portfolio/blob/main/extras/Capstone_Presentation_Static_Ver.pdf).
 - For more details on the ANSYS analysis I conducted, read the Engineering Appendix in the Executive Summary.
