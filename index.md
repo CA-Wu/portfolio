@@ -20,7 +20,7 @@ nav_order: 1
 
 {: style="text-align: center;"}
 
-I’m a Mechanical Engineer (BSME) graduating from Northeastern University in May 2024.
+I’m a Mechanical Engineer (BSME) at Northeastern University.
 
 {: style="text-align: center;"}
 3D printing was my first great engineering love, a gateway I fell into while prototyping parts for the [FIRST Robotics Competition (FRC)] back in high school. As the technology that first inspired me, I was fascinated by the accessibility of additive manufacturing and by how it could be harnessed to inspire others.
@@ -32,7 +32,7 @@ That fascination lead me first to a **3D Designer Internship** at [Makelab], a 3
 At the same time, I worked as a **Research Assistant** at Northeastern’s [Programmable and Reconfigurable Soft Engineered Systems (PARSES) Lab], exploring the intersection between 3D printing and human interaction design. While my first great engineering love was driven by the joy of design, the second blossomed from a realization of what impact these designs could have: they could boost the safety of human-robot interactions. They could enable life-saving medical procedures.
 
 {: style="text-align: center;"}
-I discovered how fulfilling it was to facilitate these positive impacts myself as a **Urology R&D Co-Op** at [Boston Scientific] in the Spring of 2023. When I graduate in the Spring of 2024, the engineer I hope to become is one that keeps positively impacting patients’ lives and building tools that inspire.
+I discovered how fulfilling it was to facilitate these positive impacts myself as a **Urology R&D Co-Op** at [Boston Scientific] in the Spring of 2023. The engineer I hope to become is one that keeps positively impacting patients’ lives and building tools that inspire.
 
 ![](images/outside_engineering.png)
 
