@@ -20,7 +20,7 @@ nav_order: 1
 
 {: style="text-align: center;"}
 
-I’m a Mechanical Engineer (BSME) at Northeastern University.
+I’m a Mechanical Engineer (BSME) graduated from Northeastern University.
 
 {: style="text-align: center;"}
 3D printing was my first great engineering love, a gateway I fell into while prototyping parts for the [FIRST Robotics Competition (FRC)] back in high school. As the technology that first inspired me, I was fascinated by the accessibility of additive manufacturing and by how it could be harnessed to inspire others.
